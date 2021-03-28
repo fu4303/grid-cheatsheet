@@ -6,4 +6,6 @@ All text content belongs to W3C <a href="https://www.w3.org/TR/css-grid-1">CSS G
 
 [Grid Cheatsheet](https://fu4303.github.io/grid-cheatsheet/)
 
+![](grid-cheatsheet.png)
+
 Thanks to [Yoksel](https://github.com/yoksel) for the backbones of this project
